@@ -1,5 +1,7 @@
 {
 	"author": "Fernando Gastón Da Ruda",
+	"description": "A project that does something awesome",
+	"keywords": ["Node Js", "freecodecamp", "Javascript"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
